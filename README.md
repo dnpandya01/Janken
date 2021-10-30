@@ -11,12 +11,12 @@ This project was created solely for the purpose of Hackathon hackCBS4.0.
 # Technologies
 ---
 Project is created with:-
-- python 3.9.0
-- tensorFlow 2.5.0
-- Flask 2.0.1
-- keyboard 0.13.5
-- pubnub 5.4.0
-- opencv-python 4.5.3.56
++ python 3.9.0
++ tensorFlow 2.5.0
++ Flask 2.0.1
++ keyboard 0.13.5
++ pubnub 5.4.0
++ opencv-python 4.5.3.56
 
 # Setup
 ---
