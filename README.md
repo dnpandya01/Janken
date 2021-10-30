@@ -10,8 +10,8 @@ This project was created solely for the purpose of Hackathon hackCBS4.0.
 
 # Technologies
 ---
-Weights files required:-
-[Weight file](https://drive.google.com/file/d/1gNxZ09NeJhaZmsE8fvLRtNQTNfvsEYbK/view)
+Weights files required:-</br>
+[Weight file](https://drive.google.com/file/d/1gNxZ09NeJhaZmsE8fvLRtNQTNfvsEYbK/view)</br>
 Make sure to keep this file in the same hierarchy as the other files in this repository. 
 
 Project is created with:-
