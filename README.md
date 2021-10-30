@@ -10,6 +10,10 @@ This project was created solely for the purpose of Hackathon hackCBS4.0.
 
 # Technologies
 ---
+Weights files required:-
+[Weight file](https://drive.google.com/file/d/1gNxZ09NeJhaZmsE8fvLRtNQTNfvsEYbK/view)
+Make sure to keep this file in the same hierarchy as the other files in this repository. 
+
 Project is created with:-
 + python 3.9.0
 + tensorFlow 2.5.0
@@ -17,6 +21,7 @@ Project is created with:-
 + keyboard 0.13.5
 + pubnub 5.4.0
 + opencv-python 4.5.3.56
+
 
 # Setup
 ---
