@@ -7,6 +7,7 @@ This project was created solely for the purpose of Hackathon hackCBS4.0.
 + **Technologies**
 + **Setup**
 + **Status**
++ **Demo**
 
 # Technologies
 ---
@@ -50,3 +51,8 @@ Step 5: Perform the actions within blue box.</br>
 # Status
 ---
 **Completed**
+
+
+# Demo
+---
+Demo is available [here] (https://www.youtube.com/watch?v=E4M2RIxXBBU&ab_channel=PandyaDharv)
