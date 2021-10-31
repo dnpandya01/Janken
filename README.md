@@ -26,7 +26,9 @@ Project is created with:-
 
 # Setup
 ---
-This game works on a peer - peer connection and hence it requires to be run on two distinct machines simultaneously.
+This game works on a peer - peer connection and hence it requires to be run on two distinct machines simultaneously.</br>
+Both the parties need to download all the files except app.py and opp.py</br>
+Player 1 needs to download app.py whereas, Player 2 needs to download opp.py 
 
 
 To run this project on your machine perform the following steps:-
@@ -37,10 +39,13 @@ Step 1: Install all the technologies which are mentioned under Technologies Sect
 
 Step 2: Download all the files from this repository and keep them in the same hierarchical order.
 
-Step 3: Execute app.py</br> 
+Step 3: Player 1 has to execute app.py</br> 
         Example</br>
         `python app.py`
-
+        Player 2 has to execute opp.py</br>
+        Example</br>
+        `python opp.py`
+        
 Step 4: Run the localhost on your machine by pasting the address provided by the command prompt in your browser.
 
 Step 5: Perform the actions within blue box.</br>
