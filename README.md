@@ -41,7 +41,7 @@ Step 2: Download all the files from this repository and keep them in the same hi
 
 Step 3: Player 1 has to execute app.py</br> 
         Example</br>
-        `python app.py`
+        `python app.py`</br>
         Player 2 has to execute opp.py</br>
         Example</br>
         `python opp.py`
